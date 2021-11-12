@@ -1,0 +1,16 @@
+[alias]
+  st = status
+  a  = add
+  l  = log --oneline
+  cm = commit -m
+  rb2 = rebase -i HEAD~2
+  rb = rebase
+  b = branch
+  pl = pull
+  sw = switch
+  swc = switch -c
+  d = diff
+  co = checkout
+  ca = commit --amend
+  f = fetch
+  ds = diff --stat
